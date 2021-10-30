@@ -1,0 +1,1 @@
+# Map-coloring-the-color-scale-styles-available-in-the-tmap-package
